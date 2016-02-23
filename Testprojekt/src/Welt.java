@@ -2,7 +2,7 @@
 public class Welt {
 
 	public static void main(String[] args) {
-		System.out.println("Beginn");
+		System.out.println("Hallo");
 		int i=1; 
 		int j=2;
 		int temp = 0;
